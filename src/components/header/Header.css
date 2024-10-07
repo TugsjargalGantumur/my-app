@@ -1,0 +1,10 @@
+#header-container {
+  background-color: #333;
+  color: white;
+  height: 80px;
+  padding: 10px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
